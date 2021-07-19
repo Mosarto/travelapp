@@ -1,16 +1,23 @@
-# travelapp
+# 🌴 Travel App 🌴
 
-A new Flutter project.
+Project created to replicate design made by [Atiqur Rahaman](https://dribbble.com/atiq31416) 🧔.
+<br/><br/>
 
-## Getting Started
+## Demo:
 
-This project is a starting point for a Flutter application.
+<img src="https://raw.githubusercontent.com/Mosarto/travelapp/main/demo/demo.gif" width="340" height="740" title="Screen Shoot">
 
-A few resources to get you started if this is your first Flutter project:
+## Packages used:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - cupertino_icons: 1.0.2
+ - flutter_svg: 0.22.0
+ - flutter_staggered_grid_view: 0.4.0
+ - blur: 3.0.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/>
+
+## Thanks 👏
+
+I have to thank [Atiqur Rahaman](https://dribbble.com/atiq31416) for making this beautiful Travel App design.
+
+Please share this Project! 🤝 😄
